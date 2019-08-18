@@ -4,5 +4,6 @@ public class myProject
   {
      sysout("a new file");
      int i=0;
+     i++;
   }
 }
